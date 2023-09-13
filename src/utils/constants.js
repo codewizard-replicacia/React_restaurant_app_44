@@ -1,0 +1,9 @@
+export const BASE_URL = "restaurant_app.com"; //Temporarily using field; Enter Backend URL here e.g. http://3.133.64.67:8164/generated_app
+export const PATH_REORDER = "/Reorders";
+export const PATH_PRODUCTCATEGORY = "/ProductCategories";
+export const PATH_PURCHASEORDER = "/PurchaseOrders";
+export const PATH_PRODUCTSTORE = "/ProductStores";
+export const PATH_VENDOR = "/Vendors";
+export const PATH_DOCUMENT = "/Documents";
+export const PATH_PRODUCTCATALOGUE = "/ProductCatalogues";
+export const PATH_INVENTORYSTOCK = "/InventoryStocks";
